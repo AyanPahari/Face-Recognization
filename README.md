@@ -48,7 +48,7 @@ and it will save those samples in a folder which we are going to create now and 
 
     If we run this code now then we will see that it will capture faces from the live video and will save it in the dataset folder
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Face-Recognization/blob/master/Screenshot/SC1.JPG)
 
 Now we have our dataset we can now train the recognizer to learn the faces from this dataset.
 
@@ -64,7 +64,7 @@ this is the folder where we are going to save our recognizer after training.
 If we run the above code given the dataset of face recognizer an id with any information (in this case name is used) we want to show on the screen, 
 the output screen will look like something as shown below.
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Face-Recognization/blob/master/Screenshot/SC2.JPG)
 
 #### 4. Linking to SQLite3 Database
 
@@ -72,4 +72,4 @@ In Fig. 4, an example is shown how the information is stored in database which w
 The face recognizer will show the information at the bottom left of the contour of the face as we have programmed it in the above code to be.
 
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Face-Recognization/blob/master/Screenshot/SC3.JPG)
